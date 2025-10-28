@@ -1,7 +1,5 @@
 i use neovim, btw
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kot66?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
-
 <a href="https://github.com/Kot6603"><img alt="profile views" title="Website" src="https://komarev.com/ghpvc/?username=Kot6603&style=for-the-badge&label=PROFILE+VIEWS"/></a>
 
 <!--
