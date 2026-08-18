@@ -1,6 +1,6 @@
 i use neovim, btw
 
-<a href="https://github.com/Kot6603"><img alt="profile views" title="Website" src="https://komarev.com/ghpvc/?username=Kot6603&style=for-the-badge&label=PROFILE+VIEWS"/></a>
+<a href="https://github.com/koutaroyumiba"><img alt="profile views" title="Website" src="https://komarev.com/ghpvc/?username=koutaroyumiba&style=for-the-badge&label=PROFILE+VIEWS"/></a>
 
 <!--
 **Kot6603/Kot6603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
