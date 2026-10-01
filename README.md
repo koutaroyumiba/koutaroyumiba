@@ -2,6 +2,8 @@ i use neovim, btw
 
 <a href="https://github.com/koutaroyumiba"><img alt="profile views" title="Website" src="https://komarev.com/ghpvc/?username=koutaroyumiba&style=for-the-badge&label=PROFILE+VIEWS"/></a>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=koutaroyumiba&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!--
 **Kot6603/Kot6603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
