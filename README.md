@@ -4,7 +4,7 @@ i use neovim, btw
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=koutaroyumiba&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[koutaroyumiba.com](https://koutaroyumiba.com)
+<a href="https://koutaroyumiba.com" target="_blank" rel="noopener noreferrer">koutaroyumiba.com</a>
 
 <!--
 **Kot6603/Kot6603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
